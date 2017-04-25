@@ -1,1 +1,5 @@
-echo "Hello World"
+<<<<<<< HEAD
+echo "Hello World!"
+=======
+echo "Hello World!"
+>>>>>>> origin
